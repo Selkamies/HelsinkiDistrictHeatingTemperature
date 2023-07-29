@@ -14,4 +14,4 @@ Data had to be downloaded in parts to three separate files.
 
 ## Preview
 
-![Image missing](https://github.com/Selkamies/HelsinkiDistrictHeatingTemperature/blob/master/Images/HelsinkiTempAndHeatingRangePercentages.png?raw=true)
+![Image missing](https://github.com/Selkamies/HelsinkiDistrictHeatingTemperature/blob/main/Images/HelsinkiTempAndHeatingRangePercentages.png?raw=true)
